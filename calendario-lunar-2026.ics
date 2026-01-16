@@ -20,8 +20,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260101T000000
 DTEND;TZID=America/Sao_Paulo:20260102T100900
-SUMMARY:🌕 Lua Cheia em Gêmeos
-DESCRIPTION:Lua Cheia em Gêmeos - Comunicação, curiosidade e versatilidade.
+SUMMARY:� Lua Crescente em Gêmeos
+DESCRIPTION:Lua Crescente em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260101@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -29,8 +29,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260102T100900
 DTEND;TZID=America/Sao_Paulo:20260104T104400
-SUMMARY:🌕 Lua Cheia em Câncer
-DESCRIPTION:Lua Cheia em Câncer - Sensibilidade, cuidado e conexão emocional.
+SUMMARY:� Lua Crescente em Câncer
+DESCRIPTION:Lua Crescente em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260102@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
