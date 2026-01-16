@@ -20,8 +20,8 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260101T000000
 DTEND;TZID=America/Sao_Paulo:20260102T100900
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌕 Lua Cheia em Gêmeos
+DESCRIPTION:Lua Cheia em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260101@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -29,8 +29,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260102T100900
 DTEND;TZID=America/Sao_Paulo:20260104T104400
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌕 Lua Cheia em Câncer
+DESCRIPTION:Lua Cheia em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260102@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -38,8 +38,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260104T104400
 DTEND;TZID=America/Sao_Paulo:20260106T135700
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌕 Lua Cheia em Leão
+DESCRIPTION:Lua Cheia em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20260104@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -47,8 +47,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260106T135700
 DTEND;TZID=America/Sao_Paulo:20260108T210600
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌕 Lua Cheia em Virgem
+DESCRIPTION:Lua Cheia em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20260106@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -56,8 +56,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260108T210600
 DTEND;TZID=America/Sao_Paulo:20260111T075600
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌕 Lua Cheia em Libra
+DESCRIPTION:Lua Cheia em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20260108@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -65,8 +65,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260111T075600
 DTEND;TZID=America/Sao_Paulo:20260113T203400
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌗 Lua Minguante em Escorpião
+DESCRIPTION:Lua Minguante em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20260111@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -74,8 +74,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260113T203400
 DTEND;TZID=America/Sao_Paulo:20260116T084700
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌗 Lua Minguante em Sagitário
+DESCRIPTION:Lua Minguante em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20260113@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -83,8 +83,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260116T084700
 DTEND;TZID=America/Sao_Paulo:20260118T191800
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌗 Lua Minguante em Capricórnio
+DESCRIPTION:Lua Minguante em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20260116@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -92,8 +92,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260118T191800
 DTEND;TZID=America/Sao_Paulo:20260121T035000
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌑 Lua Nova em Aquário
+DESCRIPTION:Lua Nova em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20260118@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -101,8 +101,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260121T035000
 DTEND;TZID=America/Sao_Paulo:20260123T102600
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌑 Lua Nova em Peixes
+DESCRIPTION:Lua Nova em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20260121@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -110,8 +110,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260123T102600
 DTEND;TZID=America/Sao_Paulo:20260125T150500
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌑 Lua Nova em Áries
+DESCRIPTION:Lua Nova em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20260123@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -119,8 +119,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260125T150500
 DTEND;TZID=America/Sao_Paulo:20260127T175500
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌑 Lua Nova em Touro
+DESCRIPTION:Lua Nova em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20260125@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -128,8 +128,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260127T175500
 DTEND;TZID=America/Sao_Paulo:20260129T193200
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌓 Lua Crescente em Gêmeos
+DESCRIPTION:Lua Crescente em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260127@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -137,8 +137,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260129T193200
 DTEND;TZID=America/Sao_Paulo:20260131T210900
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌓 Lua Crescente em Câncer
+DESCRIPTION:Lua Crescente em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260129@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -146,8 +146,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260131T210900
 DTEND;TZID=America/Sao_Paulo:20260203T002100
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌓 Lua Crescente em Leão
+DESCRIPTION:Lua Crescente em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20260131@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -155,8 +155,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260203T002100
 DTEND;TZID=America/Sao_Paulo:20260205T063300
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌕 Lua Cheia em Virgem
+DESCRIPTION:Lua Cheia em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20260203@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -164,8 +164,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260205T063300
 DTEND;TZID=America/Sao_Paulo:20260207T161300
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌕 Lua Cheia em Libra
+DESCRIPTION:Lua Cheia em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20260205@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -173,8 +173,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260207T161300
 DTEND;TZID=America/Sao_Paulo:20260210T042200
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌕 Lua Cheia em Escorpião
+DESCRIPTION:Lua Cheia em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20260207@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -182,8 +182,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260210T042200
 DTEND;TZID=America/Sao_Paulo:20260212T164500
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌗 Lua Minguante em Sagitário
+DESCRIPTION:Lua Minguante em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20260210@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -191,8 +191,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260212T164500
 DTEND;TZID=America/Sao_Paulo:20260215T031700
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌗 Lua Minguante em Capricórnio
+DESCRIPTION:Lua Minguante em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20260212@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -200,8 +200,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260215T031700
 DTEND;TZID=America/Sao_Paulo:20260217T110900
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌗 Lua Minguante em Aquário
+DESCRIPTION:Lua Minguante em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20260215@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -209,8 +209,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260217T110900
 DTEND;TZID=America/Sao_Paulo:20260219T163900
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌑 Lua Nova em Peixes
+DESCRIPTION:Lua Nova em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20260217@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -218,8 +218,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260219T163900
 DTEND;TZID=America/Sao_Paulo:20260221T203100
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌑 Lua Nova em Áries
+DESCRIPTION:Lua Nova em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20260219@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -227,8 +227,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260221T203100
 DTEND;TZID=America/Sao_Paulo:20260223T232900
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌑 Lua Nova em Touro
+DESCRIPTION:Lua Nova em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20260221@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -236,8 +236,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260223T232900
 DTEND;TZID=America/Sao_Paulo:20260226T021100
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌑 Lua Nova em Gêmeos
+DESCRIPTION:Lua Nova em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260223@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -245,8 +245,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260226T021100
 DTEND;TZID=America/Sao_Paulo:20260228T051700
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌓 Lua Crescente em Câncer
+DESCRIPTION:Lua Crescente em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260226@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -254,8 +254,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260228T051700
 DTEND;TZID=America/Sao_Paulo:20260302T091100
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌓 Lua Crescente em Leão
+DESCRIPTION:Lua Crescente em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20260228@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -263,8 +263,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260302T091100
 DTEND;TZID=America/Sao_Paulo:20260304T155600
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌓 Lua Crescente em Virgem
+DESCRIPTION:Lua Crescente em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20260302@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -272,8 +272,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260304T155600
 DTEND;TZID=America/Sao_Paulo:20260307T010200
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌕 Lua Cheia em Libra
+DESCRIPTION:Lua Cheia em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20260304@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -281,8 +281,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260307T010200
 DTEND;TZID=America/Sao_Paulo:20260309T123700
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌕 Lua Cheia em Escorpião
+DESCRIPTION:Lua Cheia em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20260307@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -290,8 +290,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260309T123700
 DTEND;TZID=America/Sao_Paulo:20260312T010700
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌕 Lua Cheia em Sagitário
+DESCRIPTION:Lua Cheia em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20260309@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -299,8 +299,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260312T010700
 DTEND;TZID=America/Sao_Paulo:20260314T121400
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌗 Lua Minguante em Capricórnio
+DESCRIPTION:Lua Minguante em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20260312@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -308,8 +308,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260314T121400
 DTEND;TZID=America/Sao_Paulo:20260316T201600
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌗 Lua Minguante em Aquário
+DESCRIPTION:Lua Minguante em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20260314@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -317,8 +317,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260316T201600
 DTEND;TZID=America/Sao_Paulo:20260319T010300
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌗 Lua Minguante em Peixes
+DESCRIPTION:Lua Minguante em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20260316@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -326,8 +326,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260319T010300
 DTEND;TZID=America/Sao_Paulo:20260321T033500
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌑 Lua Nova em Áries
+DESCRIPTION:Lua Nova em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20260319@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -335,8 +335,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260321T033500
 DTEND;TZID=America/Sao_Paulo:20260323T051900
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌑 Lua Nova em Touro
+DESCRIPTION:Lua Nova em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20260321@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -344,8 +344,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260323T051900
 DTEND;TZID=America/Sao_Paulo:20260325T071000
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌑 Lua Nova em Gêmeos
+DESCRIPTION:Lua Nova em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260323@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -353,8 +353,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260325T071000
 DTEND;TZID=America/Sao_Paulo:20260327T111000
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌑 Lua Nova em Câncer
+DESCRIPTION:Lua Nova em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260325@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -362,8 +362,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260327T111000
 DTEND;TZID=America/Sao_Paulo:20260329T163400
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌓 Lua Crescente em Leão
+DESCRIPTION:Lua Crescente em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20260327@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -371,8 +371,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260329T163400
 DTEND;TZID=America/Sao_Paulo:20260331T235100
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌓 Lua Crescente em Virgem
+DESCRIPTION:Lua Crescente em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20260329@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -380,8 +380,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260331T235100
 DTEND;TZID=America/Sao_Paulo:20260403T091100
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌓 Lua Crescente em Libra
+DESCRIPTION:Lua Crescente em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20260331@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -389,8 +389,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260403T091100
 DTEND;TZID=America/Sao_Paulo:20260405T203200
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌕 Lua Cheia em Escorpião
+DESCRIPTION:Lua Cheia em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20260403@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -398,8 +398,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260405T203200
 DTEND;TZID=America/Sao_Paulo:20260408T090500
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌕 Lua Cheia em Sagitário
+DESCRIPTION:Lua Cheia em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20260405@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -407,8 +407,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260408T090500
 DTEND;TZID=America/Sao_Paulo:20260410T205600
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌕 Lua Cheia em Capricórnio
+DESCRIPTION:Lua Cheia em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20260408@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -416,8 +416,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260410T205600
 DTEND;TZID=America/Sao_Paulo:20260413T055600
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌗 Lua Minguante em Aquário
+DESCRIPTION:Lua Minguante em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20260410@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -425,8 +425,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260413T055600
 DTEND;TZID=America/Sao_Paulo:20260415T110400
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌗 Lua Minguante em Peixes
+DESCRIPTION:Lua Minguante em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20260413@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -434,8 +434,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260415T110400
 DTEND;TZID=America/Sao_Paulo:20260417T125800
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌗 Lua Minguante em Áries
+DESCRIPTION:Lua Minguante em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20260415@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -443,8 +443,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260417T125800
 DTEND;TZID=America/Sao_Paulo:20260419T131800
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌑 Lua Nova em Touro
+DESCRIPTION:Lua Nova em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20260417@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -452,8 +452,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260419T131800
 DTEND;TZID=America/Sao_Paulo:20260421T140000
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌑 Lua Nova em Gêmeos
+DESCRIPTION:Lua Nova em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260419@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -461,8 +461,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260421T140000
 DTEND;TZID=America/Sao_Paulo:20260423T164100
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌑 Lua Nova em Câncer
+DESCRIPTION:Lua Nova em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260421@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -470,8 +470,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260423T164100
 DTEND;TZID=America/Sao_Paulo:20260425T220500
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌑 Lua Nova em Leão
+DESCRIPTION:Lua Nova em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20260423@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -479,8 +479,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260425T220500
 DTEND;TZID=America/Sao_Paulo:20260428T060300
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌓 Lua Crescente em Virgem
+DESCRIPTION:Lua Crescente em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20260425@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -488,8 +488,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260428T060300
 DTEND;TZID=America/Sao_Paulo:20260430T160200
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌓 Lua Crescente em Libra
+DESCRIPTION:Lua Crescente em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20260428@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -497,8 +497,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260430T160200
 DTEND;TZID=America/Sao_Paulo:20260503T033400
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌓 Lua Crescente em Escorpião
+DESCRIPTION:Lua Crescente em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20260430@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -506,8 +506,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260503T033400
 DTEND;TZID=America/Sao_Paulo:20260505T160600
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌕 Lua Cheia em Sagitário
+DESCRIPTION:Lua Cheia em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20260503@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -515,8 +515,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260505T160600
 DTEND;TZID=America/Sao_Paulo:20260508T042800
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌕 Lua Cheia em Capricórnio
+DESCRIPTION:Lua Cheia em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20260505@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -524,8 +524,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260508T042800
 DTEND;TZID=America/Sao_Paulo:20260510T144000
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌕 Lua Cheia em Aquário
+DESCRIPTION:Lua Cheia em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20260508@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -533,8 +533,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260510T144000
 DTEND;TZID=America/Sao_Paulo:20260512T210400
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌗 Lua Minguante em Peixes
+DESCRIPTION:Lua Minguante em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20260510@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -542,8 +542,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260512T210400
 DTEND;TZID=America/Sao_Paulo:20260514T233100
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌗 Lua Minguante em Áries
+DESCRIPTION:Lua Minguante em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20260512@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -551,8 +551,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260514T233100
 DTEND;TZID=America/Sao_Paulo:20260516T232300
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌗 Lua Minguante em Touro
+DESCRIPTION:Lua Minguante em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20260514@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -560,8 +560,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260516T232300
 DTEND;TZID=America/Sao_Paulo:20260518T224600
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌑 Lua Nova em Gêmeos
+DESCRIPTION:Lua Nova em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260516@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -569,8 +569,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260518T224600
 DTEND;TZID=America/Sao_Paulo:20260520T234800
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌑 Lua Nova em Câncer
+DESCRIPTION:Lua Nova em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260518@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -578,8 +578,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260520T234800
 DTEND;TZID=America/Sao_Paulo:20260523T040800
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌑 Lua Nova em Leão
+DESCRIPTION:Lua Nova em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20260520@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -587,8 +587,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260523T040800
 DTEND;TZID=America/Sao_Paulo:20260525T113400
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌑 Lua Nova em Virgem
+DESCRIPTION:Lua Nova em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20260523@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -596,8 +596,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260525T113400
 DTEND;TZID=America/Sao_Paulo:20260527T215300
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌓 Lua Crescente em Libra
+DESCRIPTION:Lua Crescente em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20260525@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -605,8 +605,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260527T215300
 DTEND;TZID=America/Sao_Paulo:20260530T094500
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌓 Lua Crescente em Escorpião
+DESCRIPTION:Lua Crescente em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20260527@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -614,8 +614,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260530T094500
 DTEND;TZID=America/Sao_Paulo:20260601T222000
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌓 Lua Crescente em Sagitário
+DESCRIPTION:Lua Crescente em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20260530@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -623,8 +623,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260601T222000
 DTEND;TZID=America/Sao_Paulo:20260604T104600
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌕 Lua Cheia em Capricórnio
+DESCRIPTION:Lua Cheia em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20260601@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -632,8 +632,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260604T104600
 DTEND;TZID=America/Sao_Paulo:20260606T214300
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌕 Lua Cheia em Aquário
+DESCRIPTION:Lua Cheia em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20260604@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -641,8 +641,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260606T214300
 DTEND;TZID=America/Sao_Paulo:20260609T053400
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌕 Lua Cheia em Peixes
+DESCRIPTION:Lua Cheia em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20260606@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -650,8 +650,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260609T053400
 DTEND;TZID=America/Sao_Paulo:20260611T092800
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌗 Lua Minguante em Áries
+DESCRIPTION:Lua Minguante em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20260609@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -659,8 +659,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260611T092800
 DTEND;TZID=America/Sao_Paulo:20260613T100600
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌗 Lua Minguante em Touro
+DESCRIPTION:Lua Minguante em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20260611@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -668,8 +668,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260613T100600
 DTEND;TZID=America/Sao_Paulo:20260615T091400
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌗 Lua Minguante em Gêmeos
+DESCRIPTION:Lua Minguante em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260613@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -677,8 +677,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260615T091400
 DTEND;TZID=America/Sao_Paulo:20260617T090500
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌑 Lua Nova em Câncer
+DESCRIPTION:Lua Nova em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260615@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -686,8 +686,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260617T090500
 DTEND;TZID=America/Sao_Paulo:20260619T113700
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌑 Lua Nova em Leão
+DESCRIPTION:Lua Nova em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20260617@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -695,8 +695,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260619T113700
 DTEND;TZID=America/Sao_Paulo:20260621T175500
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌑 Lua Nova em Virgem
+DESCRIPTION:Lua Nova em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20260619@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -704,8 +704,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260621T175500
 DTEND;TZID=America/Sao_Paulo:20260624T034400
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌑 Lua Nova em Libra
+DESCRIPTION:Lua Nova em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20260621@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -713,8 +713,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260624T034400
 DTEND;TZID=America/Sao_Paulo:20260626T154100
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌓 Lua Crescente em Escorpião
+DESCRIPTION:Lua Crescente em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20260624@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -722,8 +722,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260626T154100
 DTEND;TZID=America/Sao_Paulo:20260629T041900
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌓 Lua Crescente em Sagitário
+DESCRIPTION:Lua Crescente em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20260626@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -731,8 +731,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260629T041900
 DTEND;TZID=America/Sao_Paulo:20260701T163300
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌓 Lua Crescente em Capricórnio
+DESCRIPTION:Lua Crescente em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20260629@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -740,8 +740,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260701T163300
 DTEND;TZID=America/Sao_Paulo:20260704T033000
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌕 Lua Cheia em Aquário
+DESCRIPTION:Lua Cheia em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20260701@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -749,8 +749,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260704T033000
 DTEND;TZID=America/Sao_Paulo:20260706T120700
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌕 Lua Cheia em Peixes
+DESCRIPTION:Lua Cheia em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20260704@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -758,8 +758,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260706T120700
 DTEND;TZID=America/Sao_Paulo:20260708T173100
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌕 Lua Cheia em Áries
+DESCRIPTION:Lua Cheia em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20260706@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -767,8 +767,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260708T173100
 DTEND;TZID=America/Sao_Paulo:20260710T194200
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌗 Lua Minguante em Touro
+DESCRIPTION:Lua Minguante em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20260708@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -776,8 +776,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260710T194200
 DTEND;TZID=America/Sao_Paulo:20260712T194700
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌗 Lua Minguante em Gêmeos
+DESCRIPTION:Lua Minguante em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260710@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -785,8 +785,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260712T194700
 DTEND;TZID=America/Sao_Paulo:20260714T193500
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌗 Lua Minguante em Câncer
+DESCRIPTION:Lua Minguante em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260712@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -794,8 +794,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260714T193500
 DTEND;TZID=America/Sao_Paulo:20260716T210700
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌑 Lua Nova em Leão
+DESCRIPTION:Lua Nova em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20260714@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -803,8 +803,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260716T210700
 DTEND;TZID=America/Sao_Paulo:20260719T015700
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌑 Lua Nova em Virgem
+DESCRIPTION:Lua Nova em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20260716@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -812,8 +812,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260719T015700
 DTEND;TZID=America/Sao_Paulo:20260721T102700
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌑 Lua Nova em Libra
+DESCRIPTION:Lua Nova em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20260719@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -821,8 +821,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260721T102700
 DTEND;TZID=America/Sao_Paulo:20260723T220700
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌓 Lua Crescente em Escorpião
+DESCRIPTION:Lua Crescente em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20260721@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -830,8 +830,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260723T220700
 DTEND;TZID=America/Sao_Paulo:20260726T104400
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌓 Lua Crescente em Sagitário
+DESCRIPTION:Lua Crescente em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20260723@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -839,8 +839,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260726T104400
 DTEND;TZID=America/Sao_Paulo:20260728T224600
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌓 Lua Crescente em Capricórnio
+DESCRIPTION:Lua Crescente em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20260726@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -848,8 +848,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260728T224600
 DTEND;TZID=America/Sao_Paulo:20260731T091400
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌓 Lua Crescente em Aquário
+DESCRIPTION:Lua Crescente em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20260728@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -857,8 +857,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260731T091400
 DTEND;TZID=America/Sao_Paulo:20260802T173700
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌕 Lua Cheia em Peixes
+DESCRIPTION:Lua Cheia em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20260731@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -866,8 +866,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260802T173700
 DTEND;TZID=America/Sao_Paulo:20260804T233600
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌕 Lua Cheia em Áries
+DESCRIPTION:Lua Cheia em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20260802@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -875,8 +875,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260804T233600
 DTEND;TZID=America/Sao_Paulo:20260807T030800
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌕 Lua Cheia em Touro
+DESCRIPTION:Lua Cheia em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20260804@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -884,8 +884,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260807T030800
 DTEND;TZID=America/Sao_Paulo:20260809T044600
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌗 Lua Minguante em Gêmeos
+DESCRIPTION:Lua Minguante em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260807@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -893,8 +893,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260809T044600
 DTEND;TZID=America/Sao_Paulo:20260811T053800
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌗 Lua Minguante em Câncer
+DESCRIPTION:Lua Minguante em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260809@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -902,8 +902,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260811T053800
 DTEND;TZID=America/Sao_Paulo:20260813T071800
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌗 Lua Minguante em Leão
+DESCRIPTION:Lua Minguante em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20260811@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -911,8 +911,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260813T071800
 DTEND;TZID=America/Sao_Paulo:20260815T112000
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌑 Lua Nova em Virgem
+DESCRIPTION:Lua Nova em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20260813@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -920,8 +920,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260815T112000
 DTEND;TZID=America/Sao_Paulo:20260817T184600
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌑 Lua Nova em Libra
+DESCRIPTION:Lua Nova em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20260815@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -929,8 +929,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260817T184600
 DTEND;TZID=America/Sao_Paulo:20260820T053000
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌑 Lua Nova em Escorpião
+DESCRIPTION:Lua Nova em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20260817@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -938,8 +938,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260820T053000
 DTEND;TZID=America/Sao_Paulo:20260822T175900
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌓 Lua Crescente em Sagitário
+DESCRIPTION:Lua Crescente em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20260820@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -947,8 +947,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260822T175900
 DTEND;TZID=America/Sao_Paulo:20260825T060200
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌓 Lua Crescente em Capricórnio
+DESCRIPTION:Lua Crescente em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20260822@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -956,8 +956,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260825T060200
 DTEND;TZID=America/Sao_Paulo:20260827T160400
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌓 Lua Crescente em Aquário
+DESCRIPTION:Lua Crescente em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20260825@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -965,8 +965,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260827T160400
 DTEND;TZID=America/Sao_Paulo:20260829T233800
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌓 Lua Crescente em Peixes
+DESCRIPTION:Lua Crescente em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20260827@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -974,8 +974,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260829T233800
 DTEND;TZID=America/Sao_Paulo:20260901T050100
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌕 Lua Cheia em Áries
+DESCRIPTION:Lua Cheia em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20260829@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -983,8 +983,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260901T050100
 DTEND;TZID=America/Sao_Paulo:20260903T084700
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌕 Lua Cheia em Touro
+DESCRIPTION:Lua Cheia em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20260901@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -992,8 +992,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260903T084700
 DTEND;TZID=America/Sao_Paulo:20260905T113100
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌕 Lua Cheia em Gêmeos
+DESCRIPTION:Lua Cheia em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260903@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -1001,8 +1001,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260905T113100
 DTEND;TZID=America/Sao_Paulo:20260907T135000
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌗 Lua Minguante em Câncer
+DESCRIPTION:Lua Minguante em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20260905@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -1010,8 +1010,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260907T135000
 DTEND;TZID=America/Sao_Paulo:20260909T163500
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌗 Lua Minguante em Leão
+DESCRIPTION:Lua Minguante em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20260907@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -1019,8 +1019,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260909T163500
 DTEND;TZID=America/Sao_Paulo:20260911T205200
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌗 Lua Minguante em Virgem
+DESCRIPTION:Lua Minguante em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20260909@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -1028,8 +1028,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260911T205200
 DTEND;TZID=America/Sao_Paulo:20260914T034400
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌑 Lua Nova em Libra
+DESCRIPTION:Lua Nova em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20260911@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -1037,8 +1037,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260914T034400
 DTEND;TZID=America/Sao_Paulo:20260916T134200
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌑 Lua Nova em Escorpião
+DESCRIPTION:Lua Nova em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20260914@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -1046,8 +1046,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260916T134200
 DTEND;TZID=America/Sao_Paulo:20260919T015500
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌑 Lua Nova em Sagitário
+DESCRIPTION:Lua Nova em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20260916@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -1055,8 +1055,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260919T015500
 DTEND;TZID=America/Sao_Paulo:20260921T141500
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌓 Lua Crescente em Capricórnio
+DESCRIPTION:Lua Crescente em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20260919@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -1064,8 +1064,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260921T141500
 DTEND;TZID=America/Sao_Paulo:20260924T002400
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌓 Lua Crescente em Aquário
+DESCRIPTION:Lua Crescente em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20260921@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -1073,8 +1073,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260924T002400
 DTEND;TZID=America/Sao_Paulo:20260926T072300
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌓 Lua Crescente em Peixes
+DESCRIPTION:Lua Crescente em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20260924@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -1082,8 +1082,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260926T072300
 DTEND;TZID=America/Sao_Paulo:20260928T114000
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌓 Lua Crescente em Áries
+DESCRIPTION:Lua Crescente em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20260926@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -1091,8 +1091,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260928T114000
 DTEND;TZID=America/Sao_Paulo:20260930T142600
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌕 Lua Cheia em Touro
+DESCRIPTION:Lua Cheia em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20260928@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -1100,8 +1100,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20260930T142600
 DTEND;TZID=America/Sao_Paulo:20261002T165400
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌕 Lua Cheia em Gêmeos
+DESCRIPTION:Lua Cheia em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20260930@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -1109,8 +1109,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261002T165400
 DTEND;TZID=America/Sao_Paulo:20261004T195400
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌕 Lua Cheia em Câncer
+DESCRIPTION:Lua Cheia em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20261002@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -1118,8 +1118,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261004T195400
 DTEND;TZID=America/Sao_Paulo:20261006T235300
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌗 Lua Minguante em Leão
+DESCRIPTION:Lua Minguante em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20261004@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -1127,8 +1127,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261006T235300
 DTEND;TZID=America/Sao_Paulo:20261009T051100
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌗 Lua Minguante em Virgem
+DESCRIPTION:Lua Minguante em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20261006@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -1136,8 +1136,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261009T051100
 DTEND;TZID=America/Sao_Paulo:20261011T122100
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌗 Lua Minguante em Libra
+DESCRIPTION:Lua Minguante em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20261009@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -1145,8 +1145,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261011T122100
 DTEND;TZID=America/Sao_Paulo:20261013T220000
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌑 Lua Nova em Escorpião
+DESCRIPTION:Lua Nova em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20261011@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -1154,8 +1154,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261013T220000
 DTEND;TZID=America/Sao_Paulo:20261016T095700
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌑 Lua Nova em Sagitário
+DESCRIPTION:Lua Nova em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20261013@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -1163,8 +1163,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261016T095700
 DTEND;TZID=America/Sao_Paulo:20261018T220600
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌑 Lua Nova em Capricórnio
+DESCRIPTION:Lua Nova em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20261016@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -1172,8 +1172,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261018T220600
 DTEND;TZID=America/Sao_Paulo:20261021T093500
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌓 Lua Crescente em Aquário
+DESCRIPTION:Lua Crescente em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20261018@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -1181,8 +1181,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261021T093500
 DTEND;TZID=America/Sao_Paulo:20261023T165400
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌓 Lua Crescente em Peixes
+DESCRIPTION:Lua Crescente em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20261021@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -1190,8 +1190,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261023T165400
 DTEND;TZID=America/Sao_Paulo:20261025T203500
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌓 Lua Crescente em Áries
+DESCRIPTION:Lua Crescente em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20261023@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -1199,8 +1199,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261025T203500
 DTEND;TZID=America/Sao_Paulo:20261027T220200
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌓 Lua Crescente em Touro
+DESCRIPTION:Lua Crescente em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20261025@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -1208,8 +1208,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261027T220200
 DTEND;TZID=America/Sao_Paulo:20261029T230600
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌕 Lua Cheia em Gêmeos
+DESCRIPTION:Lua Cheia em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20261027@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -1217,8 +1217,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261029T230600
 DTEND;TZID=America/Sao_Paulo:20261101T014500
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌕 Lua Cheia em Câncer
+DESCRIPTION:Lua Cheia em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20261029@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -1226,8 +1226,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261101T014500
 DTEND;TZID=America/Sao_Paulo:20261103T052800
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌕 Lua Cheia em Leão
+DESCRIPTION:Lua Cheia em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20261101@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -1235,8 +1235,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261103T052800
 DTEND;TZID=America/Sao_Paulo:20261105T113800
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌗 Lua Minguante em Virgem
+DESCRIPTION:Lua Minguante em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20261103@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -1244,8 +1244,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261105T113800
 DTEND;TZID=America/Sao_Paulo:20261107T194000
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌗 Lua Minguante em Libra
+DESCRIPTION:Lua Minguante em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20261105@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -1253,8 +1253,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261107T194000
 DTEND;TZID=America/Sao_Paulo:20261110T053600
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌗 Lua Minguante em Escorpião
+DESCRIPTION:Lua Minguante em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20261107@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -1262,8 +1262,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261110T053600
 DTEND;TZID=America/Sao_Paulo:20261112T172700
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌑 Lua Nova em Sagitário
+DESCRIPTION:Lua Nova em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20261110@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -1271,8 +1271,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261112T172700
 DTEND;TZID=America/Sao_Paulo:20261115T062500
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌑 Lua Nova em Capricórnio
+DESCRIPTION:Lua Nova em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20261112@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -1280,8 +1280,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261115T062500
 DTEND;TZID=America/Sao_Paulo:20261117T180600
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌑 Lua Nova em Aquário
+DESCRIPTION:Lua Nova em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20261115@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -1289,8 +1289,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261117T180600
 DTEND;TZID=America/Sao_Paulo:20261120T025200
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌓 Lua Crescente em Peixes
+DESCRIPTION:Lua Crescente em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20261117@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -1298,8 +1298,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261120T025200
 DTEND;TZID=America/Sao_Paulo:20261122T071000
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌓 Lua Crescente em Áries
+DESCRIPTION:Lua Crescente em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20261120@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -1307,8 +1307,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261122T071000
 DTEND;TZID=America/Sao_Paulo:20261124T085100
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌓 Lua Crescente em Touro
+DESCRIPTION:Lua Crescente em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20261122@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -1316,8 +1316,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261124T085100
 DTEND;TZID=America/Sao_Paulo:20261126T075100
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌓 Lua Crescente em Gêmeos
+DESCRIPTION:Lua Crescente em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20261124@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -1325,8 +1325,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261126T075100
 DTEND;TZID=America/Sao_Paulo:20261128T082100
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌕 Lua Cheia em Câncer
+DESCRIPTION:Lua Cheia em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20261126@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -1334,8 +1334,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261128T082100
 DTEND;TZID=America/Sao_Paulo:20261130T111300
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌕 Lua Cheia em Leão
+DESCRIPTION:Lua Cheia em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20261128@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -1343,8 +1343,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261130T111300
 DTEND;TZID=America/Sao_Paulo:20261202T170400
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌕 Lua Cheia em Virgem
+DESCRIPTION:Lua Cheia em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20261130@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -1352,8 +1352,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261202T170400
 DTEND;TZID=America/Sao_Paulo:20261205T013500
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos.
+SUMMARY:🌗 Lua Minguante em Libra
+DESCRIPTION:Lua Minguante em Libra - Equilíbrio, harmonia e relacionamentos.
 UID:lua-libra-20261202@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
@@ -1361,8 +1361,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261205T013500
 DTEND;TZID=America/Sao_Paulo:20261207T120700
-SUMMARY:Lua em Escorpião
-DESCRIPTION:A Lua transita por Escorpião, trazendo energia de intensidade, transformação e profundidade.
+SUMMARY:🌗 Lua Minguante em Escorpião
+DESCRIPTION:Lua Minguante em Escorpião - Intensidade, transformação e profundidade.
 UID:lua-escorpiao-20261205@calendario-lunar
 CATEGORIES:Trânsito Lunar,Escorpião
 END:VEVENT
@@ -1370,8 +1370,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261207T120700
 DTEND;TZID=America/Sao_Paulo:20261210T000900
-SUMMARY:Lua em Sagitário
-DESCRIPTION:A Lua transita por Sagitário, trazendo energia de expansão, otimismo e aventura.
+SUMMARY:🌗 Lua Minguante em Sagitário
+DESCRIPTION:Lua Minguante em Sagitário - Expansão, otimismo e aventura.
 UID:lua-sagitario-20261207@calendario-lunar
 CATEGORIES:Trânsito Lunar,Sagitário
 END:VEVENT
@@ -1379,8 +1379,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261210T000900
 DTEND;TZID=America/Sao_Paulo:20261212T130600
-SUMMARY:Lua em Capricórnio
-DESCRIPTION:A Lua transita por Capricórnio, trazendo energia de disciplina, foco e ambição.
+SUMMARY:🌑 Lua Nova em Capricórnio
+DESCRIPTION:Lua Nova em Capricórnio - Disciplina, foco e ambição.
 UID:lua-capricornio-20261210@calendario-lunar
 CATEGORIES:Trânsito Lunar,Capricórnio
 END:VEVENT
@@ -1388,8 +1388,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261212T130600
 DTEND;TZID=America/Sao_Paulo:20261215T013600
-SUMMARY:Lua em Aquário
-DESCRIPTION:A Lua transita por Aquário, trazendo energia de inovação, originalidade e visão de futuro.
+SUMMARY:🌑 Lua Nova em Aquário
+DESCRIPTION:Lua Nova em Aquário - Inovação, originalidade e visão de futuro.
 UID:lua-aquario-20261212@calendario-lunar
 CATEGORIES:Trânsito Lunar,Aquário
 END:VEVENT
@@ -1397,8 +1397,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261215T013600
 DTEND;TZID=America/Sao_Paulo:20261217T113000
-SUMMARY:Lua em Peixes
-DESCRIPTION:A Lua transita por Peixes, trazendo energia de intuição, sensibilidade e espiritualidade.
+SUMMARY:🌑 Lua Nova em Peixes
+DESCRIPTION:Lua Nova em Peixes - Intuição, sensibilidade e espiritualidade.
 UID:lua-peixes-20261215@calendario-lunar
 CATEGORIES:Trânsito Lunar,Peixes
 END:VEVENT
@@ -1406,8 +1406,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261217T113000
 DTEND;TZID=America/Sao_Paulo:20261219T173000
-SUMMARY:Lua em Áries
-DESCRIPTION:A Lua transita por Áries, trazendo energia de iniciativa, coragem e ação.
+SUMMARY:🌓 Lua Crescente em Áries
+DESCRIPTION:Lua Crescente em Áries - Iniciativa, coragem e ação.
 UID:lua-aries-20261217@calendario-lunar
 CATEGORIES:Trânsito Lunar,Áries
 END:VEVENT
@@ -1415,8 +1415,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261219T173000
 DTEND;TZID=America/Sao_Paulo:20261221T192700
-SUMMARY:Lua em Touro
-DESCRIPTION:A Lua transita por Touro, trazendo energia de estabilidade, persistência e prazer.
+SUMMARY:🌓 Lua Crescente em Touro
+DESCRIPTION:Lua Crescente em Touro - Estabilidade, persistência e prazer.
 UID:lua-touro-20261219@calendario-lunar
 CATEGORIES:Trânsito Lunar,Touro
 END:VEVENT
@@ -1424,8 +1424,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261221T192700
 DTEND;TZID=America/Sao_Paulo:20261223T185800
-SUMMARY:Lua em Gêmeos
-DESCRIPTION:A Lua transita por Gêmeos, trazendo energia de comunicação, curiosidade e versatilidade.
+SUMMARY:🌓 Lua Crescente em Gêmeos
+DESCRIPTION:Lua Crescente em Gêmeos - Comunicação, curiosidade e versatilidade.
 UID:lua-gemeos-20261221@calendario-lunar
 CATEGORIES:Trânsito Lunar,Gêmeos
 END:VEVENT
@@ -1433,8 +1433,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261223T185800
 DTEND;TZID=America/Sao_Paulo:20261225T181200
-SUMMARY:Lua em Câncer
-DESCRIPTION:A Lua transita por Câncer, trazendo energia de sensibilidade, cuidado e conexão emocional.
+SUMMARY:🌓 Lua Crescente em Câncer
+DESCRIPTION:Lua Crescente em Câncer - Sensibilidade, cuidado e conexão emocional.
 UID:lua-cancer-20261223@calendario-lunar
 CATEGORIES:Trânsito Lunar,Câncer
 END:VEVENT
@@ -1442,8 +1442,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261225T181200
 DTEND;TZID=America/Sao_Paulo:20261227T191300
-SUMMARY:Lua em Leão
-DESCRIPTION:A Lua transita por Leão, trazendo energia de criatividade, expressão e confiança.
+SUMMARY:🌕 Lua Cheia em Leão
+DESCRIPTION:Lua Cheia em Leão - Criatividade, expressão e confiança.
 UID:lua-leao-20261225@calendario-lunar
 CATEGORIES:Trânsito Lunar,Leão
 END:VEVENT
@@ -1451,8 +1451,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261227T191300
 DTEND;TZID=America/Sao_Paulo:20261229T232700
-SUMMARY:Lua em Virgem
-DESCRIPTION:A Lua transita por Virgem, trazendo energia de organização, análise e atenção aos detalhes.
+SUMMARY:🌕 Lua Cheia em Virgem
+DESCRIPTION:Lua Cheia em Virgem - Organização, análise e atenção aos detalhes.
 UID:lua-virgem-20261227@calendario-lunar
 CATEGORIES:Trânsito Lunar,Virgem
 END:VEVENT
@@ -1460,8 +1460,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Sao_Paulo:20261229T232700
 DTEND;TZID=America/Sao_Paulo:20270101T060000
-SUMMARY:Lua em Libra
-DESCRIPTION:A Lua transita por Libra, trazendo energia de equilíbrio, harmonia e relacionamentos. Encerra o ano com harmonia.
+SUMMARY:🌕 Lua Cheia em Libra
+DESCRIPTION:Lua Cheia em Libra - Equilíbrio, harmonia e relacionamentos. Encerra o ano com harmonia.
 UID:lua-libra-20261229@calendario-lunar
 CATEGORIES:Trânsito Lunar,Libra
 END:VEVENT
