@@ -83,4 +83,4 @@ Este calendário é de uso livre. Sinta-se à vontade para compartilhar!
 
 ---
 
-Feito com 🌙 por [@vickzcouto](https://github.com/vickzcouto)
+Criado por [@vickzcouto](https://github.com/vickzcouto)🌙
