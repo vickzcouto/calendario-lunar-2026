@@ -1,0 +1,470 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendario Lunar 2026//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendário Lunar 2026 com Signos
+X-WR-TIMEZONE:America/Sao_Paulo
+
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+X-LIC-LOCATION:America/Sao_Paulo
+BEGIN:STANDARD
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:-03
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260103T070200
+DTEND;TZID=America/Sao_Paulo:20260103T080200
+SUMMARY:🌕 Lua Cheia em Câncer
+DESCRIPTION:Lua Cheia em Câncer - Momento de colher resultados e ter clareza. A energia de Câncer traz sensibilidade e conexão emocional.
+UID:lua-cheia-20260103@calendario-lunar
+CATEGORIES:Lua Cheia,Câncer
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260110T124800
+DTEND;TZID=America/Sao_Paulo:20260110T134800
+SUMMARY:🌗 Lua Minguante em Libra
+DESCRIPTION:Lua Minguante em Libra - Período para encerrar ciclos e descansar. A energia de Libra favorece o equilíbrio e harmonia.
+UID:lua-minguante-20260110@calendario-lunar
+CATEGORIES:Lua Minguante,Libra
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260118T165100
+DTEND;TZID=America/Sao_Paulo:20260118T175100
+SUMMARY:🌑 Lua Nova em Capricórnio
+DESCRIPTION:Lua Nova em Capricórnio - Melhor momento para começar projetos e plantar intenções. A energia de Capricórnio traz disciplina e foco em metas.
+UID:lua-nova-20260118@calendario-lunar
+CATEGORIES:Lua Nova,Capricórnio
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260126T014700
+DTEND;TZID=America/Sao_Paulo:20260126T024700
+SUMMARY:🌓 Lua Crescente em Touro
+DESCRIPTION:Lua Crescente em Touro - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Touro traz estabilidade e persistência.
+UID:lua-crescente-20260126@calendario-lunar
+CATEGORIES:Lua Crescente,Touro
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260201T190900
+DTEND;TZID=America/Sao_Paulo:20260201T200900
+SUMMARY:🌕 Lua Cheia em Leão
+DESCRIPTION:Lua Cheia em Leão - Momento de colher resultados e ter clareza. A energia de Leão traz criatividade e expressão pessoal.
+UID:lua-cheia-20260201@calendario-lunar
+CATEGORIES:Lua Cheia,Leão
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260209T094300
+DTEND;TZID=America/Sao_Paulo:20260209T104300
+SUMMARY:🌗 Lua Minguante em Escorpião
+DESCRIPTION:Lua Minguante em Escorpião - Período para encerrar ciclos e descansar. A energia de Escorpião favorece transformação e introspecção.
+UID:lua-minguante-20260209@calendario-lunar
+CATEGORIES:Lua Minguante,Escorpião
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260217T090100
+DTEND;TZID=America/Sao_Paulo:20260217T100100
+SUMMARY:🌑 Lua Nova em Aquário ☀️ Eclipse Solar
+DESCRIPTION:Lua Nova em Aquário com Eclipse Solar - Momento poderoso para novos começos. A energia de Aquário traz inovação e visão de futuro. Eclipse Solar amplifica as energias de transformação.
+UID:lua-nova-eclipse-20260217@calendario-lunar
+CATEGORIES:Lua Nova,Aquário,Eclipse Solar
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260224T092700
+DTEND;TZID=America/Sao_Paulo:20260224T102700
+SUMMARY:🌓 Lua Crescente em Gêmeos
+DESCRIPTION:Lua Crescente em Gêmeos - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Gêmeos traz comunicação e versatilidade.
+UID:lua-crescente-20260224@calendario-lunar
+CATEGORIES:Lua Crescente,Gêmeos
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260303T083700
+DTEND;TZID=America/Sao_Paulo:20260303T093700
+SUMMARY:🌕 Lua Cheia em Virgem 🌒 Eclipse Lunar
+DESCRIPTION:Lua Cheia em Virgem com Eclipse Lunar - Momento de revelações e clareza profunda. A energia de Virgem traz organização e discernimento. Eclipse Lunar intensifica insights e conclusões.
+UID:lua-cheia-eclipse-20260303@calendario-lunar
+CATEGORIES:Lua Cheia,Virgem,Eclipse Lunar
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260311T063800
+DTEND;TZID=America/Sao_Paulo:20260311T073800
+SUMMARY:🌗 Lua Minguante em Sagitário
+DESCRIPTION:Lua Minguante em Sagitário - Período para encerrar ciclos e descansar. A energia de Sagitário favorece reflexão e expansão de consciência.
+UID:lua-minguante-20260311@calendario-lunar
+CATEGORIES:Lua Minguante,Sagitário
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260318T222300
+DTEND;TZID=America/Sao_Paulo:20260318T232300
+SUMMARY:🌑 Lua Nova em Peixes
+DESCRIPTION:Lua Nova em Peixes - Melhor momento para começar projetos e plantar intenções. A energia de Peixes traz intuição e sensibilidade espiritual.
+UID:lua-nova-20260318@calendario-lunar
+CATEGORIES:Lua Nova,Peixes
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260325T161700
+DTEND;TZID=America/Sao_Paulo:20260325T171700
+SUMMARY:🌓 Lua Crescente em Câncer
+DESCRIPTION:Lua Crescente em Câncer - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Câncer traz nutrição e cuidado.
+UID:lua-crescente-20260325@calendario-lunar
+CATEGORIES:Lua Crescente,Câncer
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260401T231100
+DTEND;TZID=America/Sao_Paulo:20260402T001100
+SUMMARY:🌕 Lua Cheia em Libra
+DESCRIPTION:Lua Cheia em Libra - Momento de colher resultados e ter clareza. A energia de Libra traz equilíbrio e harmonia nos relacionamentos.
+UID:lua-cheia-20260401@calendario-lunar
+CATEGORIES:Lua Cheia,Libra
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260410T015100
+DTEND;TZID=America/Sao_Paulo:20260410T025100
+SUMMARY:🌗 Lua Minguante em Capricórnio
+DESCRIPTION:Lua Minguante em Capricórnio - Período para encerrar ciclos e descansar. A energia de Capricórnio favorece revisão de metas e estruturas.
+UID:lua-minguante-20260410@calendario-lunar
+CATEGORIES:Lua Minguante,Capricórnio
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260417T085100
+DTEND;TZID=America/Sao_Paulo:20260417T095100
+SUMMARY:🌑 Lua Nova em Áries
+DESCRIPTION:Lua Nova em Áries - Melhor momento para começar projetos e plantar intenções. A energia de Áries traz iniciativa e coragem para novos começos.
+UID:lua-nova-20260417@calendario-lunar
+CATEGORIES:Lua Nova,Áries
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260423T233100
+DTEND;TZID=America/Sao_Paulo:20260424T003100
+SUMMARY:🌓 Lua Crescente em Leão
+DESCRIPTION:Lua Crescente em Leão - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Leão traz confiança e expressão criativa.
+UID:lua-crescente-20260423@calendario-lunar
+CATEGORIES:Lua Crescente,Leão
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260501T142200
+DTEND;TZID=America/Sao_Paulo:20260501T152200
+SUMMARY:🌕 Lua Cheia em Escorpião
+DESCRIPTION:Lua Cheia em Escorpião - Momento de colher resultados e ter clareza. A energia de Escorpião traz profundidade e transformação.
+UID:lua-cheia-20260501@calendario-lunar
+CATEGORIES:Lua Cheia,Escorpião
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260509T181000
+DTEND;TZID=America/Sao_Paulo:20260509T191000
+SUMMARY:🌗 Lua Minguante em Aquário
+DESCRIPTION:Lua Minguante em Aquário - Período para encerrar ciclos e descansar. A energia de Aquário favorece desapego e inovação.
+UID:lua-minguante-20260509@calendario-lunar
+CATEGORIES:Lua Minguante,Aquário
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260516T170100
+DTEND;TZID=America/Sao_Paulo:20260516T180100
+SUMMARY:🌑 Lua Nova em Touro ⭐ Superlua
+DESCRIPTION:Lua Nova em Touro (Superlua) - Momento poderoso para novos começos. A energia de Touro traz estabilidade e abundância. Superlua intensifica as energias.
+UID:lua-nova-super-20260516@calendario-lunar
+CATEGORIES:Lua Nova,Touro,Superlua
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260523T081000
+DTEND;TZID=America/Sao_Paulo:20260523T091000
+SUMMARY:🌓 Lua Crescente em Virgem
+DESCRIPTION:Lua Crescente em Virgem - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Virgem traz organização e atenção aos detalhes.
+UID:lua-crescente-20260523@calendario-lunar
+CATEGORIES:Lua Crescente,Virgem
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260531T054500
+DTEND;TZID=America/Sao_Paulo:20260531T064500
+SUMMARY:🌕 Lua Cheia em Sagitário 🔵 Lua Azul
+DESCRIPTION:Lua Cheia em Sagitário (Lua Azul) - Segunda Lua Cheia do mês, fenômeno raro. A energia de Sagitário traz expansão e otimismo.
+UID:lua-cheia-azul-20260531@calendario-lunar
+CATEGORIES:Lua Cheia,Sagitário,Lua Azul
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260608T070000
+DTEND;TZID=America/Sao_Paulo:20260608T080000
+SUMMARY:🌗 Lua Minguante em Peixes
+DESCRIPTION:Lua Minguante em Peixes - Período para encerrar ciclos e descansar. A energia de Peixes favorece introspecção e conexão espiritual.
+UID:lua-minguante-20260608@calendario-lunar
+CATEGORIES:Lua Minguante,Peixes
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260614T235400
+DTEND;TZID=America/Sao_Paulo:20260615T005400
+SUMMARY:🌑 Lua Nova em Gêmeos ⭐ Superlua
+DESCRIPTION:Lua Nova em Gêmeos (Superlua) - Momento poderoso para novos começos. A energia de Gêmeos traz comunicação e novas ideias. Superlua intensifica as energias.
+UID:lua-nova-super-20260614@calendario-lunar
+CATEGORIES:Lua Nova,Gêmeos,Superlua
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260621T185500
+DTEND;TZID=America/Sao_Paulo:20260621T195500
+SUMMARY:🌓 Lua Crescente em Virgem
+DESCRIPTION:Lua Crescente em Virgem - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Virgem traz praticidade e análise.
+UID:lua-crescente-20260621@calendario-lunar
+CATEGORIES:Lua Crescente,Virgem
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260629T205600
+DTEND;TZID=America/Sao_Paulo:20260629T215600
+SUMMARY:🌕 Lua Cheia em Capricórnio
+DESCRIPTION:Lua Cheia em Capricórnio - Momento de colher resultados e ter clareza. A energia de Capricórnio traz realização e conquistas concretas.
+UID:lua-cheia-20260629@calendario-lunar
+CATEGORIES:Lua Cheia,Capricórnio
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260707T162900
+DTEND;TZID=America/Sao_Paulo:20260707T172900
+SUMMARY:🌗 Lua Minguante em Áries
+DESCRIPTION:Lua Minguante em Áries - Período para encerrar ciclos e descansar. A energia de Áries favorece liberação de impulsos e renovação.
+UID:lua-minguante-20260707@calendario-lunar
+CATEGORIES:Lua Minguante,Áries
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260714T064300
+DTEND;TZID=America/Sao_Paulo:20260714T074300
+SUMMARY:🌑 Lua Nova em Câncer ⭐ Superlua
+DESCRIPTION:Lua Nova em Câncer (Superlua) - Momento poderoso para novos começos. A energia de Câncer traz nutrição emocional e conexão familiar. Superlua intensifica as energias.
+UID:lua-nova-super-20260714@calendario-lunar
+CATEGORIES:Lua Nova,Câncer,Superlua
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260721T080500
+DTEND;TZID=America/Sao_Paulo:20260721T090500
+SUMMARY:🌓 Lua Crescente em Escorpião
+DESCRIPTION:Lua Crescente em Escorpião - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Escorpião traz intensidade e foco.
+UID:lua-crescente-20260721@calendario-lunar
+CATEGORIES:Lua Crescente,Escorpião
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260729T113500
+DTEND;TZID=America/Sao_Paulo:20260729T123500
+SUMMARY:🌕 Lua Cheia em Aquário
+DESCRIPTION:Lua Cheia em Aquário - Momento de colher resultados e ter clareza. A energia de Aquário traz insights e visão humanitária.
+UID:lua-cheia-20260729@calendario-lunar
+CATEGORIES:Lua Cheia,Aquário
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260805T232100
+DTEND;TZID=America/Sao_Paulo:20260806T002100
+SUMMARY:🌗 Lua Minguante em Touro
+DESCRIPTION:Lua Minguante em Touro - Período para encerrar ciclos e descansar. A energia de Touro favorece estabilização e ancoragem.
+UID:lua-minguante-20260805@calendario-lunar
+CATEGORIES:Lua Minguante,Touro
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260812T143600
+DTEND;TZID=America/Sao_Paulo:20260812T153600
+SUMMARY:🌑 Lua Nova em Leão ☀️ Eclipse Solar
+DESCRIPTION:Lua Nova em Leão com Eclipse Solar - Momento poderoso para novos começos. A energia de Leão traz coragem e expressão autêntica. Eclipse Solar amplifica as energias de transformação.
+UID:lua-nova-eclipse-20260812@calendario-lunar
+CATEGORIES:Lua Nova,Leão,Eclipse Solar
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260819T234600
+DTEND;TZID=America/Sao_Paulo:20260820T004600
+SUMMARY:🌓 Lua Crescente em Escorpião
+DESCRIPTION:Lua Crescente em Escorpião - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Escorpião traz profundidade e determinação.
+UID:lua-crescente-20260819@calendario-lunar
+CATEGORIES:Lua Crescente,Escorpião
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260828T011800
+DTEND;TZID=America/Sao_Paulo:20260828T021800
+SUMMARY:🌕 Lua Cheia em Peixes 🌒 Eclipse Lunar
+DESCRIPTION:Lua Cheia em Peixes com Eclipse Lunar - Momento de revelações profundas e clareza espiritual. A energia de Peixes traz sensibilidade e intuição. Eclipse Lunar intensifica insights e conclusões.
+UID:lua-cheia-eclipse-20260828@calendario-lunar
+CATEGORIES:Lua Cheia,Peixes,Eclipse Lunar
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260904T045100
+DTEND;TZID=America/Sao_Paulo:20260904T055100
+SUMMARY:🌗 Lua Minguante em Gêmeos
+DESCRIPTION:Lua Minguante em Gêmeos - Período para encerrar ciclos e descansar. A energia de Gêmeos favorece revisão de ideias e comunicação.
+UID:lua-minguante-20260904@calendario-lunar
+CATEGORIES:Lua Minguante,Gêmeos
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260911T002600
+DTEND;TZID=America/Sao_Paulo:20260911T012600
+SUMMARY:🌑 Lua Nova em Virgem
+DESCRIPTION:Lua Nova em Virgem - Melhor momento para começar projetos e plantar intenções. A energia de Virgem traz organização e atenção aos detalhes.
+UID:lua-nova-20260911@calendario-lunar
+CATEGORIES:Lua Nova,Virgem
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260918T174300
+DTEND;TZID=America/Sao_Paulo:20260918T184300
+SUMMARY:🌓 Lua Crescente em Sagitário
+DESCRIPTION:Lua Crescente em Sagitário - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Sagitário traz expansão e otimismo.
+UID:lua-crescente-20260918@calendario-lunar
+CATEGORIES:Lua Crescente,Sagitário
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20260926T134800
+DTEND;TZID=America/Sao_Paulo:20260926T144800
+SUMMARY:🌕 Lua Cheia em Áries
+DESCRIPTION:Lua Cheia em Áries - Momento de colher resultados e ter clareza. A energia de Áries traz ação e iniciativa.
+UID:lua-cheia-20260926@calendario-lunar
+CATEGORIES:Lua Cheia,Áries
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261003T102500
+DTEND;TZID=America/Sao_Paulo:20261003T112500
+SUMMARY:🌗 Lua Minguante em Câncer
+DESCRIPTION:Lua Minguante em Câncer - Período para encerrar ciclos e descansar. A energia de Câncer favorece cuidado emocional e recolhimento.
+UID:lua-minguante-20261003@calendario-lunar
+CATEGORIES:Lua Minguante,Câncer
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261010T125000
+DTEND;TZID=America/Sao_Paulo:20261010T135000
+SUMMARY:🌑 Lua Nova em Libra
+DESCRIPTION:Lua Nova em Libra - Melhor momento para começar projetos e plantar intenções. A energia de Libra traz equilíbrio e harmonia nos relacionamentos.
+UID:lua-nova-20261010@calendario-lunar
+CATEGORIES:Lua Nova,Libra
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261018T131200
+DTEND;TZID=America/Sao_Paulo:20261018T141200
+SUMMARY:🌓 Lua Crescente em Aquário
+DESCRIPTION:Lua Crescente em Aquário - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Aquário traz inovação e originalidade.
+UID:lua-crescente-20261018@calendario-lunar
+CATEGORIES:Lua Crescente,Aquário
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261026T011100
+DTEND;TZID=America/Sao_Paulo:20261026T021100
+SUMMARY:🌕 Lua Cheia em Touro
+DESCRIPTION:Lua Cheia em Touro - Momento de colher resultados e ter clareza. A energia de Touro traz estabilidade e abundância material.
+UID:lua-cheia-20261026@calendario-lunar
+CATEGORIES:Lua Cheia,Touro
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261101T172800
+DTEND;TZID=America/Sao_Paulo:20261101T182800
+SUMMARY:🌗 Lua Minguante em Leão
+DESCRIPTION:Lua Minguante em Leão - Período para encerrar ciclos e descansar. A energia de Leão favorece reflexão sobre expressão pessoal.
+UID:lua-minguante-20261101@calendario-lunar
+CATEGORIES:Lua Minguante,Leão
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261109T040200
+DTEND;TZID=America/Sao_Paulo:20261109T050200
+SUMMARY:🌑 Lua Nova em Escorpião
+DESCRIPTION:Lua Nova em Escorpião - Melhor momento para começar projetos e plantar intenções. A energia de Escorpião traz profundidade e transformação.
+UID:lua-nova-20261109@calendario-lunar
+CATEGORIES:Lua Nova,Escorpião
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261117T084700
+DTEND;TZID=America/Sao_Paulo:20261117T094700
+SUMMARY:🌓 Lua Crescente em Peixes
+DESCRIPTION:Lua Crescente em Peixes - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Peixes traz intuição e criatividade.
+UID:lua-crescente-20261117@calendario-lunar
+CATEGORIES:Lua Crescente,Peixes
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261124T115300
+DTEND;TZID=America/Sao_Paulo:20261124T125300
+SUMMARY:🌕 Lua Cheia em Gêmeos ⭐ Superlua
+DESCRIPTION:Lua Cheia em Gêmeos (Superlua) - Momento poderoso de clareza e comunicação. A energia de Gêmeos traz insights e conexões. Superlua intensifica as energias.
+UID:lua-cheia-super-20261124@calendario-lunar
+CATEGORIES:Lua Cheia,Gêmeos,Superlua
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261201T030800
+DTEND;TZID=America/Sao_Paulo:20261201T040800
+SUMMARY:🌗 Lua Minguante em Virgem
+DESCRIPTION:Lua Minguante em Virgem - Período para encerrar ciclos e descansar. A energia de Virgem favorece organização e limpeza.
+UID:lua-minguante-20261201@calendario-lunar
+CATEGORIES:Lua Minguante,Virgem
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261208T215100
+DTEND;TZID=America/Sao_Paulo:20261208T225100
+SUMMARY:🌑 Lua Nova em Sagitário
+DESCRIPTION:Lua Nova em Sagitário - Melhor momento para começar projetos e plantar intenções. A energia de Sagitário traz expansão e novas perspectivas.
+UID:lua-nova-20261208@calendario-lunar
+CATEGORIES:Lua Nova,Sagitário
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261217T024200
+DTEND;TZID=America/Sao_Paulo:20261217T034200
+SUMMARY:🌓 Lua Crescente em Peixes
+DESCRIPTION:Lua Crescente em Peixes - Energia ideal para desenvolver e fazer crescer o que iniciou. A energia de Peixes traz sensibilidade e sonhos.
+UID:lua-crescente-20261217@calendario-lunar
+CATEGORIES:Lua Crescente,Peixes
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261223T222800
+DTEND;TZID=America/Sao_Paulo:20261223T232800
+SUMMARY:🌕 Lua Cheia em Câncer
+DESCRIPTION:Lua Cheia em Câncer - Momento de colher resultados e ter clareza. A energia de Câncer traz conexão emocional e familiar. Perfeita para o Natal.
+UID:lua-cheia-20261223@calendario-lunar
+CATEGORIES:Lua Cheia,Câncer
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=America/Sao_Paulo:20261230T155900
+DTEND;TZID=America/Sao_Paulo:20261230T165900
+SUMMARY:🌗 Lua Minguante em Libra
+DESCRIPTION:Lua Minguante em Libra - Período para encerrar ciclos e descansar. A energia de Libra favorece equilíbrio e fechamento harmonioso do ano.
+UID:lua-minguante-20261230@calendario-lunar
+CATEGORIES:Lua Minguante,Libra
+END:VEVENT
+
+END:VCALENDAR
