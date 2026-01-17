@@ -13,15 +13,15 @@ Calendário com todas as fases da Lua de 2026, incluindo signos, eclipses e Supe
 1. Clique no arquivo `.ics`
 2. Escolha **"Abrir com"** → **Calendário**
 
-   <img src="imgs/android-1.png" alt="Passo 1 - Abrir com Calendário" width="50%">
+   <img src="imgs/android-1.png" alt="Passo 1 - Abrir com Calendário" width="300">
 
 3. Visualize os eventos e toque em **"Salvar"**
 
-   <img src="imgs/android-2.png" alt="Passo 2 - Salvar" width="50%">
+   <img src="imgs/android-2.png" alt="Passo 2 - Salvar" width="300">
 
 4. Aguarde a importação finalizar
 
-   <img src="imgs/android-3.jpeg" alt="Passo 3 - Importando" width="50%">
+   <img src="imgs/android-3.jpeg" alt="Passo 3 - Importando" width="300">
 
 5. Pronto! Ao acessar o calendário você verá todos os eventos
 
