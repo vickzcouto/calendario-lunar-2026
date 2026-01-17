@@ -82,9 +82,11 @@ Todos os horários estão em **America/Sao_Paulo (UTC-3)** - Horário de Brasíl
 
 ---
 
-## 📚 Fonte dos dados
+## 📚 Fontes dos dados
 
-Dados extraídos do [Personare - Calendário Lunar 2026](https://www.personare.com.br/conteudo/calendario-lunar-2026-m267541).
+- [NASA Moon Phase Calendar](https://moon.nasa.gov/moon-observation/daily-moon-guide/)
+- [Astro Pixels](http://astropixels.com/ephemeris/moon/mooncal2026.html)
+- [Personare - Calendário Lunar 2026](https://www.personare.com.br/conteudo/calendario-lunar-2026-m267541)
 
 ---
 
