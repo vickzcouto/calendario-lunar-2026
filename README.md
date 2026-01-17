@@ -5,7 +5,7 @@ Calendário com todas as fases da Lua de 2026, incluindo signos, eclipses e Supe
 ## 📱 Como usar
 
 ### iPhone/iPad
-1. Clique no link: https://raw.githubusercontent.com/vickzcouto/calendario-lunar-2026/main/calendario-lunar-2026.ics
+1. Clique no link: [Baixar calendário](https://raw.githubusercontent.com/vickzcouto/calendario-lunar-2026/main/calendario-lunar-2026.ics)
 2. Toque em **"Assinar"** quando aparecer a opção
 3. Pronto! O calendário será adicionado automaticamente
 
