@@ -10,9 +10,10 @@ Calendário com todas as fases da Lua de 2026, incluindo signos, eclipses e Supe
 3. Pronto! O calendário será adicionado automaticamente
 
 ### Android
-1. Abra o Google Calendar no navegador
-2. Vá em Configurações > Importar e exportar
-3. Importe o arquivo `.ics`
+1. Clique no link do arquivo `.ics`
+2. Escolha **"Abrir com"** → **Calendário**
+3. Visualize os eventos e toque em **"Salvar"**
+4. Aguarde a importação finalizar
 
 ### Google Calendar (PC)
 1. Acesse [calendar.google.com](https://calendar.google.com)
